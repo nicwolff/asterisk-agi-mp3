@@ -1,0 +1,2 @@
+<member name="app_pickupchan" displayname="Channel Pickup Application" remove_on_change="apps/app_pickupchan.o apps/app_pickupchan.so">
+</member>
